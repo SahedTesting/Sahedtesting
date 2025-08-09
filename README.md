@@ -1,6 +1,6 @@
 <!-- Intro Typing Animation -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Sahed+Sarker;I+am+a+Student;I+am+from+Bangladesh;I+am+a+small+developer;Please+Support+and+Follow" alt="Sahed Sarker" width="650" height="55">
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Sahed+Sarker;I+am+from+Bangladesh;I+am+a+small+developer;Please+Support+and+Follow" alt="Sahed Sarker" width="700" height="60">
 </p>
 
 <!-- Main Programming GIF -->
@@ -44,7 +44,7 @@
 <div align="center">
   <p><b>☎️ Contact Me</b></p>
   <p>
-    <a href="https://telegram.me/SahedContactBot"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%231877F2.svg?logo=Telegram&logoColor=white" /></a>
+    <a href="https://telegram.me/SahedSarker"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%231877F2.svg?style=for-the-badge&logo=Telegram&logoColor=white" /></a>
     <a href="https://instagram.com/SahedSarkerr"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
     <a href="https://facebook.com/SahedSarkerr"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
   </p>
